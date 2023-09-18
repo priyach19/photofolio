@@ -18,5 +18,9 @@
   ```
   #### Screenshots:
   ![homepage](<Screenshot (31).png>)
+  ![create album page](https://github.com/priyach19/photofolio/assets/126319326/caf8eab8-6037-4cad-b18a-00a14fd575f5)
+  ![upload image form](https://github.com/priyach19/photofolio/assets/126319326/1e6111d5-4786-41c5-92ad-60a8b7fa47b1)
+
+
 
 
